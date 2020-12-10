@@ -4,7 +4,7 @@
 
 ### Gradle
 ```
-implementation("app.summation.android:android-client:1.0-SNAPSHOT")
+implementation("app.summation.android:android-client:1.0")
 ```
 
 ## Use
