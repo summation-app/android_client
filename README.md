@@ -52,5 +52,17 @@ val response = client.get("http://api.ipapi.com/98.33.28.214", null, null)
 println(response)
 ```
 
+## Test
+
+### 1.clone code to your computer
+```
+git clone https://github.com/summation-app/android_client.git
+```
+
+### 2.open the folder by IntelliJ IDEA
+
+### 3.run test
+![run test](https://github.com/summation-app/android_client/raw/master/screenshots/run_test.jpg)
+
 ## Author
 Xiong Zhao, zhaoxiong15928976339@gmail.com
